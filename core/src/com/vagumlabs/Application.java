@@ -92,11 +92,11 @@ public class Application extends ApplicationAdapter implements InputProcessor {
         boundingBox = tiles.calculateBoundingBox(boundingBox);
         float tileLength = boundingBox.getWidth();
         for (float x = -tileLength; x <= tileLength; x = x + tileLength) {
-            for (float y = -tileLength; y <= tileLength; y = y + tileLength) {
+            for (float z = -tileLength; z <= tileLength; z = z + tileLength) {
                 if (tileInstances == null) {
                     tileInstances = new ArrayList<>();
                 }
-                Vector3 centre = new Vector3(x, y, 0);
+                Vector3 centre = new Vector3(x, 0, z);
                 Gdx.app.log("INFO", "creating tiles at location: " + centre);
                 tileInstances.add(new ModelInstance(tiles, centre));
             }
