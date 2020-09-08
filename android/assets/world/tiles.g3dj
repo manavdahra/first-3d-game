@@ -1,0 +1,276 @@
+{
+	"version": [  0,   1], 
+	"id": "", 
+	"meshes": [
+		{
+			"attributes": ["POSITION", "NORMAL", "TEXCOORD0"], 
+			"vertices": [
+				-0.500000,  0.500000,  0.000000,  0.000000,  0.000000,  1.000000,  1.000000,  0.000000, 
+				 0.500000, -0.500000,  0.000000,  0.000000,  0.000000,  1.000000,  0.000000,  1.000000, 
+				 0.500000,  0.500000,  0.000000,  0.000000,  0.000000,  1.000000,  1.000000,  1.000000, 
+				-0.500000, -0.500000,  0.000000,  0.000000,  0.000000,  1.000000,  0.000000,  0.000000
+			], 
+			"parts": [
+				{
+					"id": "SurfPatch.001_part1", 
+					"type": "TRIANGLES", 
+					"indices": [  0,   1,   2,   1,   0,   3]
+				}, 
+				{
+					"id": "SurfPatch.002_part1", 
+					"type": "TRIANGLES", 
+					"indices": [  0,   1,   2,   1,   0,   3]
+				}, 
+				{
+					"id": "SurfPatch.003_part1", 
+					"type": "TRIANGLES", 
+					"indices": [  0,   1,   2,   1,   0,   3]
+				}, 
+				{
+					"id": "SurfPatch.004_part1", 
+					"type": "TRIANGLES", 
+					"indices": [  0,   1,   2,   1,   0,   3]
+				}, 
+				{
+					"id": "SurfPatch.005_part1", 
+					"type": "TRIANGLES", 
+					"indices": [  0,   1,   2,   1,   0,   3]
+				}, 
+				{
+					"id": "SurfPatch.006_part1", 
+					"type": "TRIANGLES", 
+					"indices": [  0,   1,   2,   1,   0,   3]
+				}, 
+				{
+					"id": "SurfPatch.007_part1", 
+					"type": "TRIANGLES", 
+					"indices": [  0,   1,   2,   1,   0,   3]
+				}, 
+				{
+					"id": "SurfPatch.008_part1", 
+					"type": "TRIANGLES", 
+					"indices": [  0,   1,   2,   1,   0,   3]
+				}, 
+				{
+					"id": "SurfPatch.009_part1", 
+					"type": "TRIANGLES", 
+					"indices": [  0,   1,   2,   1,   0,   3]
+				}
+			]
+		}
+	], 
+	"materials": [
+		{
+			"id": "Material.003", 
+			"ambient": [ 0.050876,  0.050876,  0.050876], 
+			"diffuse": [ 0.165998,  0.184469,  0.167104], 
+			"emissive": [ 0.000000,  0.000000,  0.000000], 
+			"opacity":  1.000000, 
+			"specular": [ 0.165998,  0.184469,  0.167104], 
+			"shininess":  25.000000
+		}, 
+		{
+			"id": "Material.004", 
+			"ambient": [ 0.050876,  0.050876,  0.050876], 
+			"diffuse": [ 0.603816,  0.603816,  0.603816], 
+			"emissive": [ 0.000000,  0.000000,  0.000000], 
+			"opacity":  1.000000, 
+			"specular": [ 0.603816,  0.603816,  0.603816], 
+			"shininess":  25.000000
+		}, 
+		{
+			"id": "Material.005", 
+			"ambient": [ 0.050876,  0.050876,  0.050876], 
+			"diffuse": [ 0.603816,  0.603816,  0.603816], 
+			"emissive": [ 0.000000,  0.000000,  0.000000], 
+			"opacity":  1.000000, 
+			"specular": [ 0.603816,  0.603816,  0.603816], 
+			"shininess":  25.000000
+		}, 
+		{
+			"id": "Material.006", 
+			"ambient": [ 0.050876,  0.050876,  0.050876], 
+			"diffuse": [ 0.603816,  0.603816,  0.603816], 
+			"emissive": [ 0.000000,  0.000000,  0.000000], 
+			"opacity":  1.000000, 
+			"specular": [ 0.603816,  0.603816,  0.603816], 
+			"shininess":  25.000000
+		}, 
+		{
+			"id": "Material.007", 
+			"ambient": [ 0.050876,  0.050876,  0.050876], 
+			"diffuse": [ 0.603816,  0.603816,  0.603816], 
+			"emissive": [ 0.000000,  0.000000,  0.000000], 
+			"opacity":  1.000000, 
+			"specular": [ 0.603816,  0.603816,  0.603816], 
+			"shininess":  25.000000
+		}, 
+		{
+			"id": "Material.008", 
+			"ambient": [ 0.050876,  0.050876,  0.050876], 
+			"diffuse": [ 0.165998,  0.184469,  0.167104], 
+			"emissive": [ 0.000000,  0.000000,  0.000000], 
+			"opacity":  1.000000, 
+			"specular": [ 0.165998,  0.184469,  0.167104], 
+			"shininess":  25.000000
+		}, 
+		{
+			"id": "Material.009", 
+			"ambient": [ 0.050876,  0.050876,  0.050876], 
+			"diffuse": [ 0.165998,  0.184469,  0.167104], 
+			"emissive": [ 0.000000,  0.000000,  0.000000], 
+			"opacity":  1.000000, 
+			"specular": [ 0.165998,  0.184469,  0.167104], 
+			"shininess":  25.000000
+		}, 
+		{
+			"id": "Material.010", 
+			"ambient": [ 0.050876,  0.050876,  0.050876], 
+			"diffuse": [ 0.165998,  0.184469,  0.167104], 
+			"emissive": [ 0.000000,  0.000000,  0.000000], 
+			"opacity":  1.000000, 
+			"specular": [ 0.165998,  0.184469,  0.167104], 
+			"shininess":  25.000000
+		}, 
+		{
+			"id": "Material.011", 
+			"ambient": [ 0.050876,  0.050876,  0.050876], 
+			"diffuse": [ 0.165998,  0.184469,  0.167104], 
+			"emissive": [ 0.000000,  0.000000,  0.000000], 
+			"opacity":  1.000000, 
+			"specular": [ 0.165998,  0.184469,  0.167104], 
+			"shininess":  25.000000
+		}
+	], 
+	"nodes": [
+		{
+			"id": "Light", 
+			"rotation": [ 0.169076,  0.755880, -0.272171,  0.570947], 
+			"scale": [ 100.000008,  100.000000,  100.000000], 
+			"translation": [ 407.624542,  590.386230, -100.545395]
+		}, 
+		{
+			"id": "Camera", 
+			"rotation": [-0.212557,  0.904797, -0.084389,  0.359222], 
+			"scale": [ 100.000000,  100.000008,  99.999992], 
+			"translation": [ 735.889160,  495.830933,  692.579102]
+		}, 
+		{
+			"id": "tile-centre", 
+			"rotation": [-0.707107,  0.000000,  0.000000,  0.707107], 
+			"scale": [ 100.000000,  100.000000,  100.000000], 
+			"parts": [
+				{
+					"meshpartid": "SurfPatch.001_part1", 
+					"materialid": "Material.003", 
+					"uvMapping": [[]]
+				}
+			]
+		}, 
+		{
+			"id": "tile-right", 
+			"rotation": [-0.707107,  0.000000,  0.000000,  0.707107], 
+			"scale": [ 100.000000,  100.000000,  100.000000], 
+			"translation": [ 0.000000,  0.000000,  100.000000], 
+			"parts": [
+				{
+					"meshpartid": "SurfPatch.002_part1", 
+					"materialid": "Material.004", 
+					"uvMapping": [[]]
+				}
+			]
+		}, 
+		{
+			"id": "tile-left", 
+			"rotation": [-0.707107,  0.000000,  0.000000,  0.707107], 
+			"scale": [ 100.000000,  100.000000,  100.000000], 
+			"translation": [ 0.000000,  0.000000, -100.000000], 
+			"parts": [
+				{
+					"meshpartid": "SurfPatch.003_part1", 
+					"materialid": "Material.005", 
+					"uvMapping": [[]]
+				}
+			]
+		}, 
+		{
+			"id": "tile-top", 
+			"rotation": [-0.707107,  0.000000,  0.000000,  0.707107], 
+			"scale": [ 100.000000,  100.000000,  100.000000], 
+			"translation": [ 100.000000,  0.000000,  0.000000], 
+			"parts": [
+				{
+					"meshpartid": "SurfPatch.004_part1", 
+					"materialid": "Material.006", 
+					"uvMapping": [[]]
+				}
+			]
+		}, 
+		{
+			"id": "tile-bottom", 
+			"rotation": [-0.707107,  0.000000,  0.000000,  0.707107], 
+			"scale": [ 100.000000,  100.000000,  100.000000], 
+			"translation": [-100.000000,  0.000000,  0.000000], 
+			"parts": [
+				{
+					"meshpartid": "SurfPatch.005_part1", 
+					"materialid": "Material.007", 
+					"uvMapping": [[]]
+				}
+			]
+		}, 
+		{
+			"id": "tile-bottom-left", 
+			"rotation": [-0.707107,  0.000000,  0.000000,  0.707107], 
+			"scale": [ 100.000000,  100.000000,  100.000000], 
+			"translation": [-100.000000,  0.000000, -100.000000], 
+			"parts": [
+				{
+					"meshpartid": "SurfPatch.006_part1", 
+					"materialid": "Material.008", 
+					"uvMapping": [[]]
+				}
+			]
+		}, 
+		{
+			"id": "tile-bottom-right", 
+			"rotation": [-0.707107,  0.000000,  0.000000,  0.707107], 
+			"scale": [ 100.000000,  100.000000,  100.000000], 
+			"translation": [-100.000000,  0.000000,  100.000000], 
+			"parts": [
+				{
+					"meshpartid": "SurfPatch.007_part1", 
+					"materialid": "Material.009", 
+					"uvMapping": [[]]
+				}
+			]
+		}, 
+		{
+			"id": "tile-top-right", 
+			"rotation": [-0.707107,  0.000000,  0.000000,  0.707107], 
+			"scale": [ 100.000000,  100.000000,  100.000000], 
+			"translation": [ 100.000000,  0.000000,  100.000000], 
+			"parts": [
+				{
+					"meshpartid": "SurfPatch.008_part1", 
+					"materialid": "Material.010", 
+					"uvMapping": [[]]
+				}
+			]
+		}, 
+		{
+			"id": "tile-top-left", 
+			"rotation": [-0.707107,  0.000000,  0.000000,  0.707107], 
+			"scale": [ 100.000000,  100.000000,  100.000000], 
+			"translation": [ 100.000000,  0.000000, -100.000000], 
+			"parts": [
+				{
+					"meshpartid": "SurfPatch.009_part1", 
+					"materialid": "Material.011", 
+					"uvMapping": [[]]
+				}
+			]
+		}
+	], 
+	"animations": []
+}
